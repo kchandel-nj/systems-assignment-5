@@ -1,0 +1,10 @@
+# Object files
+*.o
+
+# Test executables
+tests/test[0-9]*
+!tests/test*.c
+tests/demo_test*
+
+# Windows download metadata
+*Zone.Identifier
